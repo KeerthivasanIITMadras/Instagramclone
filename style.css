@@ -1,0 +1,169 @@
+*{
+   margin: 20px;
+   background-color:rgb(250, 250, 250) ;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 400;
+}
+
+.totalpage{
+    display:flex;
+
+background-color:rgb(250, 250, 250);
+margin: 5px;
+}
+
+.section1{
+    margin-top: 150px;
+    background-color: white;
+    border:1px solid black;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    padding-bottom: 0.25cm;
+    
+}
+.imgmobile{
+    padding-top:100px;
+    padding-left: 300px;
+   
+    padding-bottom: 100px;
+   width: 15cm;
+
+}
+.imgwriting{
+    width: 6cm;
+    padding-left: 90px;
+    background-color: white;
+}
+.section2{
+  border: 1px solid black;
+  padding:10px;
+  padding-left: 70px;
+  background-color: white;
+  font-size: 2vh;
+  
+
+}
+.section2text span{
+    color: dodgerblue;
+    background-color: white;
+    cursor: pointer;
+}
+.texttype1{
+    
+    padding-left: 30px;
+    border: none;
+    display:block;
+    width: 35vh;
+    height: 5vh;
+    background: #fafafa;
+}
+.texttype2{
+    padding-left: 30px;
+    border: none;
+    display:block;
+    width: 35vh;
+    height: 5vh;
+    background: #fafafa;
+}
+textarea:focus, input:focus{
+    outline: none;}
+    
+    .loginbutton{
+        color: white ;
+        background-color: rgb(80, 177, 221);
+        width: 38vh;
+        border-radius: 10px;
+        height: 5vh;
+        font-size: 20px;
+        cursor: pointer;
+        
+        
+    }
+   
+    
+    .line{
+        width: 100px;
+        
+        height:1px;
+        background-color: white;
+
+    }
+    .linespacing{
+    display:flex;
+    justify-content: space-between;
+    background-color: white;
+    }
+    .section2text{
+        background-color: white;
+    }
+    
+    .imagefb{
+        width: 3vh;
+        cursor: pointer;
+        
+    }
+    .text3{
+        
+        color: rgb(25, 25, 112);
+        font-size: 2vh;
+        font-weight: 500;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: white;
+        cursor: pointer;
+    }
+    .facebook{
+       display: flex;
+       align-items: center;
+       background-color: white;
+    }
+    .password{
+        padding-left: 125px;
+        color: #00376b;
+        background-color: white;
+        cursor: pointer;
+    }
+   
+    .get{
+        padding-left: 180px;
+        font-size: 2vh;
+    }
+   
+    .image5{
+        width:4cm;
+        cursor: pointer;
+        
+    }
+    .image6{
+        width:4cm;
+        cursor: pointer;
+    }
+    
+    
+    
+    
+    .combined{
+        display:flex;
+       
+    }
+    .footer{
+        background-color:rgb(250, 250, 250) ;
+    
+    }
+    .row1{
+        text-align:center;
+        color: #8e8e8e;
+        cursor: pointer;
+    }
+    .row2{
+        text-align: center;
+        color: #8e8e8e;
+        cursor: pointer;
+    }
+    .row3{
+        text-align: center;
+        color: #8e8e8e;
+        font-weight: 400;
+        cursor: pointer;
+    }
+
+        
